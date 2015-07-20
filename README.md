@@ -1,5 +1,5 @@
 # RestfulServer
-This is a Basic restful Website 
+This is a Basic  Website 
 device can upload data by visiting http://localhost:3000/api/data+value to upload the sensors data
 
 1.Visit the http://localhost:3000/api/find to show the data the device has already uploaded
